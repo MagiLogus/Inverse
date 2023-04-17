@@ -1,0 +1,15 @@
+C:\Users\33984578865\Desktop\Inverse\bin\Debug\net7.0\Inverse.exe
+C:\Users\33984578865\Desktop\Inverse\bin\Debug\net7.0\Inverse.deps.json
+C:\Users\33984578865\Desktop\Inverse\bin\Debug\net7.0\Inverse.runtimeconfig.json
+C:\Users\33984578865\Desktop\Inverse\bin\Debug\net7.0\Inverse.dll
+C:\Users\33984578865\Desktop\Inverse\bin\Debug\net7.0\Inverse.pdb
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\Inverse.csproj.AssemblyReference.cache
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\Inverse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\Inverse.AssemblyInfoInputs.cache
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\Inverse.AssemblyInfo.cs
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\Inverse.csproj.CoreCompileInputs.cache
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\Inverse.dll
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\refint\Inverse.dll
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\Inverse.pdb
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\Inverse.genruntimeconfig.cache
+C:\Users\33984578865\Desktop\Inverse\obj\Debug\net7.0\ref\Inverse.dll
